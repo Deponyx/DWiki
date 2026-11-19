@@ -1,2 +1,2 @@
 # DWiki
-Wiki tentang game 
+A game wiki that is still experimental
